@@ -1,0 +1,16 @@
+destination:
+  batch_size: 5000
+
+staging:
+  server: localhost
+  database: joconde_staging
+  table: "staging.joconde"
+  table_prefect: "joconde"
+
+audit:
+  source_system: "joconde_json_v1"
+  load_process: "import_json_polars_v2"
+
+fichiers:
+  source: 'C:\\Users\\linkedin\\base-joconde-extrait.json'
+  cache: "joconde_cache.feather"

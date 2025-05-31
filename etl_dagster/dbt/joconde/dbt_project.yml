@@ -1,0 +1,15 @@
+name: 'joconde'
+version: '1.0'
+config-version: 2
+
+profile: 'joconde_sqlserver'
+
+model-paths: ['models']
+target-path: 'target'
+clean-targets: ['target', 'dbt_modules']
+
+models:
+  joconde:
+    staging:
+      +schema: staging
+      +materialized: table
