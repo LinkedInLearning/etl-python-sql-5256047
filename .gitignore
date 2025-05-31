@@ -8,6 +8,7 @@ npm-debug.log
 tmp*/
 .tmp*/
 *.sqlite
+*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
