@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Mettre en place une solution ETL avec P
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-Animée par Rudi Bruchez, cette formation s’adresse aux développeurs, data analysts, data engineers et architectes de données souhaitant maîtriser la construction de pipelines de données modernes et automatisés. Dans un environnement où les données sont omniprésentes, apprendre à manipuler, transformer et intégrer des données avec Python et SQL vous permettra de reprendre le contrôle de vos flux de données, tout en évitant les limites des outils no-code ou propriétaires. Vous apprendrez à concevoir des solutions ETL ou ELT sur-mesure, à orchestrer des traitements automatisés et à exploiter toute la puissance de Python.		
+Animée par Rudi Bruchez, cette formation s’adresse aux développeurs, data analysts, data engineers et architectes de données souhaitant maîtriser la construction de pipelines de données modernes et automatisés. Dans un environnement où les données sont omniprésentes, apprendre à manipuler, transformer et intégrer des données avec Python et SQL vous permettra de reprendre le contrôle de vos flux de données, tout en évitant les limites des outils no-code ou propriétaires. Vous apprendrez à concevoir des solutions ETL ou ELT sur-mesure, à orchestrer des traitements automatisés et à exploiter toute la puissance de Python pour accélérer vos développements.		
 
 ## Installation
 
