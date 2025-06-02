@@ -11,7 +11,7 @@ Animée par Rudi Bruchez, cette formation s’adresse aux développeurs, data an
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - [Visual Studio Code](https://code.visualstudio.com/) 
    - [Python](https://www.python.org/)
-   - Un moteur de base de données, mais vous pouvez utyiliser SQLite qui est intégré dans Python 
+   - Un moteur de base de données, mais vous pouvez utiliser SQLite qui est intégré dans Python.
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 3. Les fichiers sont numérotés dans l'ordre des vidéos, vous arriverez facilement à suivre.
 
