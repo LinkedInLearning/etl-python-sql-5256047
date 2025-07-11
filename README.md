@@ -23,7 +23,7 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFJEjN-tRyBBQ/learning-public-crop_675_1200/B4EZf4R.DuHgAY-/0/1752217150489?e=2147483647&v=beta&t=HphOxsMiPJSyC2aPZfdlE_-Q-9ZC8sVb-2ORQTlek1Y
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
 
 [1]: # (End of FR-Instruction ###############################################################################################)
