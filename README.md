@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `Mettre en place une solution ETL avec P
 
 Animée par Rudi Bruchez, cette formation s’adresse aux développeurs, data analysts, data engineers et architectes de données souhaitant maîtriser la construction de pipelines de données modernes et automatisés. Dans un environnement où les données sont omniprésentes, apprendre à manipuler, transformer et intégrer des données avec Python et SQL vous permettra de reprendre le contrôle de vos flux de données, tout en évitant les limites des outils no-code ou propriétaires. Vous apprendrez à concevoir des solutions ETL ou ELT sur-mesure, à orchestrer des traitements automatisés et à exploiter toute la puissance de Python pour accélérer vos développements.		
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
